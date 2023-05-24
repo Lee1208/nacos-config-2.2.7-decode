@@ -1,0 +1,25 @@
+-classpath
+'D:/worktools/maven/jar/org/springframework/boot/spring-boot-actuator/2.3.12.RELEASE/spring-boot-actuator-2.3.12.RELEASE.jar;D:/worktools/maven/jar/org/springframework/boot/spring-boot-actuator-autoconfigure/2.3.12.RELEASE/spring-boot-actuator-autoconfigure-2.3.12.RELEASE.jar;D:/worktools/maven/jar/com/fasterxml/jackson/core/jackson-databind/2.11.4/jackson-databind-2.11.4.jar;D:/worktools/maven/jar/com/fasterxml/jackson/core/jackson-annotations/2.11.4/jackson-annotations-2.11.4.jar;D:/worktools/maven/jar/org/springframework/boot/spring-boot-configuration-processor/2.3.12.RELEASE/spring-boot-configuration-processor-2.3.12.RELEASE.jar;D:/worktools/maven/jar/org/springframework/boot/spring-boot/2.3.12.RELEASE/spring-boot-2.3.12.RELEASE.jar;D:/worktools/maven/jar/org/springframework/spring-core/5.2.15.RELEASE/spring-core-5.2.15.RELEASE.jar;D:/worktools/maven/jar/org/springframework/spring-jcl/5.2.15.RELEASE/spring-jcl-5.2.15.RELEASE.jar;D:/worktools/maven/jar/org/springframework/spring-context/5.2.15.RELEASE/spring-context-5.2.15.RELEASE.jar;D:/worktools/maven/jar/org/springframework/spring-aop/5.2.15.RELEASE/spring-aop-5.2.15.RELEASE.jar;D:/worktools/maven/jar/org/springframework/spring-beans/5.2.15.RELEASE/spring-beans-5.2.15.RELEASE.jar;D:/worktools/maven/jar/org/springframework/spring-expression/5.2.15.RELEASE/spring-expression-5.2.15.RELEASE.jar;D:/worktools/maven/jar/org/springframework/boot/spring-boot-autoconfigure/2.3.12.RELEASE/spring-boot-autoconfigure-2.3.12.RELEASE.jar;D:/worktools/maven/jar/org/springframework/boot/spring-boot-starter/2.3.12.RELEASE/spring-boot-starter-2.3.12.RELEASE.jar;D:/worktools/maven/jar/org/springframework/boot/spring-boot-starter-logging/2.3.12.RELEASE/spring-boot-starter-logging-2.3.12.RELEASE.jar;D:/worktools/maven/jar/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar;D:/worktools/maven/jar/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar;D:/worktools/maven/jar/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar;D:/worktools/maven/jar/org/apache/logging/log4j/log4j-to-slf4j/2.13.3/log4j-to-slf4j-2.13.3.jar;D:/worktools/maven/jar/org/apache/logging/log4j/log4j-api/2.13.3/log4j-api-2.13.3.jar;D:/worktools/maven/jar/org/slf4j/jul-to-slf4j/1.7.30/jul-to-slf4j-1.7.30.jar;D:/worktools/maven/jar/jakarta/annotation/jakarta.annotation-api/1.3.5/jakarta.annotation-api-1.3.5.jar;D:/worktools/maven/jar/org/yaml/snakeyaml/1.26/snakeyaml-1.26.jar;D:/worktools/maven/jar/com/alibaba/spring/spring-context-support/1.0.10/spring-context-support-1.0.10.jar;D:/worktools/maven/jar/com/alibaba/nacos/nacos-client/2.0.3/nacos-client-2.0.3.jar;D:/worktools/maven/jar/commons-codec/commons-codec/1.14/commons-codec-1.14.jar;D:/worktools/maven/jar/com/fasterxml/jackson/core/jackson-core/2.11.4/jackson-core-2.11.4.jar;D:/worktools/maven/jar/org/apache/httpcomponents/httpasyncclient/4.1.4/httpasyncclient-4.1.4.jar;D:/worktools/maven/jar/org/apache/httpcomponents/httpcore/4.4.14/httpcore-4.4.14.jar;D:/worktools/maven/jar/org/apache/httpcomponents/httpcore-nio/4.4.14/httpcore-nio-4.4.14.jar;D:/worktools/maven/jar/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar;D:/worktools/maven/jar/org/reflections/reflections/0.9.11/reflections-0.9.11.jar;D:/worktools/maven/jar/com/google/guava/guava/20.0/guava-20.0.jar;D:/worktools/maven/jar/org/javassist/javassist/3.21.0-GA/javassist-3.21.0-GA.jar;D:/worktools/maven/jar/io/prometheus/simpleclient/0.5.0/simpleclient-0.5.0.jar;D:/worktools/maven/jar/org/springframework/cloud/spring-cloud-commons/2.2.9.RELEASE/spring-cloud-commons-2.2.9.RELEASE.jar;D:/worktools/maven/jar/org/springframework/security/spring-security-crypto/5.3.9.RELEASE/spring-security-crypto-5.3.9.RELEASE.jar;D:/worktools/maven/jar/org/springframework/cloud/spring-cloud-context/2.2.9.RELEASE/spring-cloud-context-2.2.9.RELEASE.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'D:/projectFile/java/self/nacos-config-2.2.7-decode/src/main/java;D:/projectFile/java/self/nacos-config-2.2.7-decode/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023 <a href="https://www.spring.io">Pivotal Software, Inc.</a>. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/projectFile/java/self/nacos-config-2.2.7-decode/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'nacos-config-2.2.7-decode 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/projectFile/java/self/nacos-config-2.2.7-decode/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'nacos-config-2.2.7-decode 1.0-SNAPSHOT API'
