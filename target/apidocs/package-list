@@ -1,9 +1,0 @@
-com.alibaba.cloud.nacos
-com.alibaba.cloud.nacos.api
-com.alibaba.cloud.nacos.client
-com.alibaba.cloud.nacos.diagnostics.analyzer
-com.alibaba.cloud.nacos.endpoint
-com.alibaba.cloud.nacos.logging
-com.alibaba.cloud.nacos.parser
-com.alibaba.cloud.nacos.refresh
-com.alibaba.cloud.nacos.utils
